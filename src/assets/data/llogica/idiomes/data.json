@@ -1,0 +1,56 @@
+[
+ {
+   "Cultura": "ca-ES",
+   "Idioma": "Català",
+   "Escriptura": "Bil·lingüe",
+   "Lectura": "Bil·lingüe"
+ },
+ {
+   "Cultura": "ca-ES",
+   "Idioma": "Espanyol",
+   "Escriptura": "Bil·lingüe",
+   "Lectura": "Bil·lingüe"
+ },
+ {
+   "Cultura": "ca-ES",
+   "Idioma": "Anglès",
+   "Escriptura": "Alt",
+   "Lectura": "Alt"
+ },
+ {
+   "Cultura": "es-ES",
+   "Idioma": "Catalán",
+   "Escriptura": "Bilingüe",
+   "Lectura": "Bilingüe"
+ },
+ {
+   "Cultura": "es-ES",
+   "Idioma": "Español",
+   "Escriptura": "Bilingüe",
+   "Lectura": "Bilingüe"
+ },
+ {
+   "Cultura": "es-ES",
+   "Idioma": "Inglés",
+   "Escriptura": "Alt",
+   "Lectura": "Alt"
+ },
+ {
+   "Cultura": "en-GB",
+   "Idioma": "Catalán",
+   "Escriptura": "Bilingual",
+   "Lectura": "Bilingual"
+ },
+ {
+   "Cultura": "en-GB",
+   "Idioma": "Español",
+   "Escriptura": "Bilingual",
+   "Lectura": "Bilingual"
+ },
+ {
+   "Cultura": "en-GB",
+   "Idioma": "English",
+   "Escriptura": "High",
+   "Lectura": "High"
+ }
+]

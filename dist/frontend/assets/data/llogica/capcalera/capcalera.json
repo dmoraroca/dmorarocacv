@@ -1,0 +1,54 @@
+[
+	{
+		"Cultura": "ca-ES", 
+		"data": {
+			"Nom":"David",
+			"Cognoms":"Mora Roca",
+			"Adreca":"Carrer Sant Gabriel,25,1er B",
+			"CodiPostal":"08350",
+			"Pais":"Espanya",
+			"Nacionalitat":"espanyola",
+			"NIF":"46126829-F",
+			"email":"dmoraroca@gmail.com",
+			"NickSkype":"crac_mora",
+			"Telefon":"679959392",
+			"Naixament":"6 de Març de 1970",
+			"Ciutat":"Arenys de Mar",
+			"Provincia":"BARCELONA"
+		}
+	}, {
+		"Cultura": "en-GB",
+		"data":{
+			"Nom":"David",
+			"Cognoms":"Mora Roca",
+			"Adreca":"Sant Gabriel Street,25,1st B",
+			"CodiPostal":"08350",
+			"Pais":"Spain",
+			"Nacionalitat":"spanish",
+			"NIF":"46126829-F",
+			"email":"dmoraroca@gmail.com",
+			"NickSkype":"crac_mora",
+			"Telefon":"679959392",
+			"Naixament":"March 6th, 1970",
+			"Ciutat":"Arenys de Mar",
+			"Provincia":"BARCELONA"
+		}
+	}, {
+		"Cultura": "es-ES",
+		"data": {
+			"Nom":"David",
+			"Cognoms":"Mora Roca",
+			"Adreca":"Calle San Gabriel,25,1er B",
+			"CodiPostal":"08350",
+			"Pais":"España",
+			"Nacionalitat":"española",
+			"NIF":"46126829-F",
+			"email":"dmoraroca@gmail.com",
+			"NickSkype":"crac_mora",
+			"Telefon":"679959392",
+			"Naixament":"6 de Marzo de 1970",
+			"Ciutat":"Arenys de Mar",
+			"Provincia":"BARCELONA"
+		}
+	}
+]

@@ -1,0 +1,35 @@
+body {
+    height: 100% !important;
+}
+
+.negreta {
+    color: darkblue;   
+    font-weight: bold;
+}
+
+.titol {
+    width: 90%;
+    float: right;
+    border: 1px solid black;
+    background: darkblue;
+    color: yellow;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top:20px;
+    font-weight: bold;
+}
+
+.subtitol {
+    width: 80%;
+    float: right;
+    border-bottom: 1px solid darkblue;
+    color: darkblue;
+    padding-left: 30px;
+    font-weight: bold;
+}
+
+.bordejat {
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
