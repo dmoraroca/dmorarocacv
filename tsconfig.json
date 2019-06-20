@@ -3,9 +3,12 @@
   "compilerOptions": {
     "baseUrl": "./",
     "outDir": "./dist/",
+	"rootDir": "./src",
     "sourceMap": true,
     "declaration": false,
-    "module": "es2015",
+	"strict": false,
+    "module": "es6",
+	"esModuleInterop": true,
     "moduleResolution": "node",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
@@ -19,3 +22,8 @@
     ]
   }
 }
+
+
+    
+    
+    
