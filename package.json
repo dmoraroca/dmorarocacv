@@ -9,10 +9,10 @@
       "test": "ng test",
       "lint": "ng lint",
       "e2e": "ng e2e",
-      "postinstall": "ng build ",
+      "postinstall": "ng build",
       "heroku-postbuild": "ng"
    },
-   "main": "lib/server.js",
+   "main": "dist/server.js",
    "private": true,
    "dependencies": {
       "@angular-devkit/core": "^7.2.1",
