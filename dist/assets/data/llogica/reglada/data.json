@@ -1,0 +1,38 @@
+[
+ {
+   "Cultura": "ca-ES",
+   "Any": 1994,
+   "Descripcio": "Informàtica de Gestió",
+   "Academia": "Universitat Oberta de Catalunya (UOC)"
+ },
+ {
+   "Cultura": "ca-ES",
+   "Any": 1992,
+   "Descripcio": "informática de Gestió",
+   "Academia": "Escoles Professionales Salesianes de Sarrià (EPSS)"
+ },
+ {
+   "Cultura": "es-ES",
+   "Any": 1994,
+   "Descripcio": "Informática de Gestión",
+   "Academia": "Universitat Oberta de Catalunya (UOC)"
+ },
+ {
+   "Cultura": "es-ES",
+   "Any": 1992,
+   "Descripcio": "informática de Gestión",
+   "Academia": "Escuelas Profesionales Salesianos de Sarriá (EPSS)"
+ },
+ {
+   "Cultura": "en-GB",
+   "Any": 1994,
+   "Descripcio": "Bussiness's Programming",
+   "Academia": "Universitat Oberta de Catalunya (UOC)"
+ },
+ {
+   "Cultura": "en-GB",
+   "Any": 1992,
+   "Descripcio": "Bussiness's Programming",
+   "Academia": "Escuelas Profesionales Salesianos de Sarriá (EPSS)"
+ }
+]
