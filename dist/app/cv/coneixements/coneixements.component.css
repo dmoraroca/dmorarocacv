@@ -1,0 +1,21 @@
+.tamany_coneixements{
+    width:70%;
+}
+table tr:nth-child(odd) {
+    background-color: darkgrey; 
+    color: black;
+}
+
+.odd {
+    background-color: white; 
+    color: black;
+    }
+
+.even {
+    background-color: darkgray; 
+    color: black;
+}
+
+.tag {
+    
+}
