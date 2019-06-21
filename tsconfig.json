@@ -8,7 +8,6 @@
     "declaration": false,
 	"strict": false,
     "module": "es6",
-	"esModuleInterop": true,
     "moduleResolution": "node",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,

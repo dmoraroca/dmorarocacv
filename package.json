@@ -10,15 +10,18 @@
       "lint": "ng lint",
       "e2e": "ng e2e",
       "postinstall": "ng build",
-      "heroku-postbuild": "ng"
+      "heroku-postbuild": "ng",
+      "copy-template": "copyfiles -u 1 ./src/**/*.html ./dist"
    },
    "main": "dist/server.js",
    "private": true,
    "dependencies": {
       "@angular-devkit/core": "^7.2.1",
       "@angular/animations": "^5.0.2",
+      "@angular/cli": "^7.2.1",
       "@angular/common": "^5.0.0",
       "@angular/compiler": "^5.0.0",
+      "@angular/compiler-cli": "^5.0.0",
       "@angular/core": "^5.0.3",
       "@angular/forms": "^5.0.0",
       "@angular/http": "^5.0.0",
@@ -26,7 +29,6 @@
       "@angular/platform-browser-dynamic": "^5.0.0",
       "@angular/router": "^5.0.0",
       "@swimlane/ngx-datatable": "^11.1.2",
-      "gulp-sass": "^3.0.0",
       "angular-calendar": "^0.22.1",
       "angular-linq": "^1.0.6",
       "bootstrap": "^4.2.1",
@@ -45,15 +47,14 @@
       "ngx-quill": "^2.0.4",
       "ngx-responsive-stack-table": "^1.0.2",
       "ngx-tags-input": "^1.1.1",
+      "node": "^12.4.0",
       "node-sass": "^4.12.0",
       "pace-js": "^1.0.2",
       "popper.js": "^1.12.5",
       "rxjs": "^5.5.0",
       "tags-input": "^1.1.1",
-      "zone.js": "^0.8.4",
-      "@angular/cli": "^7.2.1",
-      "@angular/compiler-cli": "^5.0.0",
-      "typescript": "~2.4.2"
+      "typescript": "~2.4.2",
+      "zone.js": "^0.8.4"
    },
    "devDependencies": {
       "@angular-devkit/build-angular": "^0.12.1",
@@ -62,13 +63,14 @@
       "@types/chartist": "^0.9.37",
       "@types/jquery": "^3.2.5",
       "@types/node": "^6.0.111",
-      "codelyzer": "~3.2.0",      
+      "codelyzer": "~3.2.0",
+      "grunt-tsc": "^1.0.12",
       "protractor": "~5.1.2",
       "ts-node": "~3.2.0",
       "tslint": "~5.7.0"
    },
    "engines": {
-      "node": "12.0.0",
+      "node": "10.6.0",
       "npm": "6.9.0"
    }
 }
