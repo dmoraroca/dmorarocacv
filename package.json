@@ -5,12 +5,8 @@
    "scripts": {
       "start": "node ./dist/index.js",
       "build": "ng build",
-<<<<<<< HEAD
 	  "heroku-preinstall": "copyfiles -u 1 ./src/app/**/*.html ./src/app/**/*.css dist/",
       "heroku-postbuild": "ng build --prod",
-=======
-      "heroku-postbuild": "ng build --prod"
->>>>>>> 3781aa2e4b51263490ce1d99f5e666d3e0b565d2
    },
    "main": "dist/server.js",
    "private": true,
