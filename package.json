@@ -6,8 +6,7 @@
    "scripts": {
       "start": "node ./dist/index.js",
       "build": "ng build",
-	  "heroku-prebuild": "npm install",
-      "heroku-postbuild": "ng build"
+      "heroku-postbuild": "ng build --prod"
    },
    "main": "dist/server.js",
    "private": true,
