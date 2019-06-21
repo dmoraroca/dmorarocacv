@@ -3,15 +3,9 @@
    "version": "0.0.0",
    "license": "MIT",
    "scripts": {
-      "ng": "ng",
-      "start": "ng serve",
-      "build": "ng build",
-      "test": "ng test",
-      "lint": "ng lint",
-      "e2e": "ng e2e",
-      "postinstall": "ng build",
-      "heroku-postbuild": "ng",
-      "copy-template": "copyfiles -u 1 ./src/**/*.html ./dist"
+       "start": "node ./dist/index.js",
+		"build": "ng build",
+		"heroku-postbuild": "ng build --prod" // this will be run on Heroku
    },
    "main": "dist/server.js",
    "private": true,
