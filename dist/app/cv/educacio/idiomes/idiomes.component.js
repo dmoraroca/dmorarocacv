@@ -8,7 +8,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 import { Component } from '@angular/core';
-import { Idiomes } from './Idiomes.model';
+import { Idiomes } from './idiomes.model';
 import { DataService } from '../../../data.service';
 import { Globals } from '../../../globals';
 var IdiomesComponent = /** @class */ (function () {
@@ -31,8 +31,8 @@ var IdiomesComponent = /** @class */ (function () {
     IdiomesComponent = __decorate([
         Component({
             selector: 'app-idiomes',
-            templateUrl: './Idiomes.component.html',
-            styleUrls: ['./Idiomes.component.css'],
+            templateUrl: './idiomes.component.html',
+            styleUrls: ['./idiomes.component.css'],
             providers: [DataService]
         }),
         __metadata("design:paramtypes", [DataService, Globals])
