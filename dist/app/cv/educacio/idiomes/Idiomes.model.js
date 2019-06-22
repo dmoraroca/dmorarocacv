@@ -30,4 +30,4 @@ var Idiomes = /** @class */ (function (_super) {
     return Idiomes;
 }(Base));
 export { Idiomes };
-//# sourceMappingURL=Idiomes.model.js.map
+//# sourceMappingURL=idiomes.model.js.map

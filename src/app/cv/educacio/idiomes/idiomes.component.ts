@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Idiomes } from './Idiomes.model';
+import { Idiomes } from './idiomes.model';
 import { DataService } from '../../../data.service';
 import { Globals } from '../../../globals';
 
