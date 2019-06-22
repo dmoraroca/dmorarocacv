@@ -5,8 +5,8 @@ import { Globals } from '../../../globals';
 
 @Component({
   selector: 'app-idiomes',
-  templateUrl: './Idiomes.component.html',
-  styleUrls: ['./Idiomes.component.css'],
+  templateUrl: './idiomes.component.html',
+  styleUrls: ['./idiomes.component.css'],
   providers: [DataService]
 })
 export class IdiomesComponent implements OnInit {  
