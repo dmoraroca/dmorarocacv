@@ -4,9 +4,9 @@
    "license": "MIT",
    "scripts": {
       "start": "node ./dist/index.js",
-      "build": "ng build",
-	  "heroku-preinstall": "copyfiles -u 1 ./src/app/**/*.html ./src/app/**/*.css dist/",
-      "heroku-postbuild": "nide ./dist/server.js"
+      "build": "ng build --prod",
+      "heroku-postbuild": "npm run html && ng build",
+	  "html": "copyfiles -u 1 ./src/app/**/*.html ./src/app/**/*.css dist/"
    },
    "main": "dist/server.js",
    "private": true,
