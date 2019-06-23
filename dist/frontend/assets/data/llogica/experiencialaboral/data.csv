@@ -1,0 +1,50 @@
+﻿id;cultura;mesinicial;mesfinal;empresa;sector;rol;esclient;descripcio;tecnologies;
+0;ca-ES;Nov 2017;Jul 2018;Mpm Software;Banca;Analista programador;false;Empresa dedicada al mon del es assegurances. Estava al background important dades de fitxers plans.; C#, MVC 3, ASP.Net, JavaScript, Bootstrap, WCF, CSS, Sql Server,  Cloudant DB, Angular 5, Oracle, Nhibernate, Visual Studio 2010, Visual Studio Code
+1;ca-ES;Abr 2017;Oct 2017;Procon;Automòvil;Analista programador;true;-;-
+2;ca-ES;Feb 2017;Mar 2017;Bismart;Consultoria;Analista programador;true;-;-
+3;ca-ES;Nov 2016;Feb 2017;Hays;Consultoria;Analista programador;true;-;-
+4;ca-ES;Abr 2016;Nov 2016;Between;Consultoria;Analista programador;true;-;-
+5;ca-ES;May 2015;Abr 2016;PSS-TI;Consultoria;Analista programador;true;-;-
+6;ca-ES;Nov 2014;May 2015;EXPERIS (MANPOWERGROUP);Consultoria;Analista programador;true;-;-
+7;ca-ES;Mar 2014;Nov 2014;ADICIONA;Consultoria;Analista programador;true;-;-
+8;ca-ES;Sep 2013;Mar 2014;CONSULTIA IT;Consultoria;Analista programador;true;-;-
+9;ca-ES;Nov 2012;Ago 2013;RANDSTAD;Consultoria;Analista programador;true;-;-
+10;ca-ES;Oct 2011;Ene 2012;OPEN TRAFFIC SYSTEMS, S.L.;Indústria;Analista programador;false; participé en dos proyectos los cuales trataban sobre el mantenimiento de 	parquímetros y contenedores;Java, C#, Framework 2.0, Grails, Oracle 11g , JQuery, Vs2010, CSS, HTML, JavaScript. Documentación.
+11;ca-ES;Sep 2009;Oct 2011;Voxel;Turístico;Analista programador;false;Relaciona clients amb proveïdors (hotels, restaurants empreses de begudes, ...) i s'emporta un percentatge de la factura. Programava i documentava;Java, C#, Telerik, WebForms, ASP.Net, JQuery, Framework 2, JQuery, CSS, HTML, Javascript, WebServices, Cvs, Scrum, Oracle
+12;ca-ES;Ene 2009;Sep 2009;Optim-a;Consultoria;Analista programador;true;-;-
+13;ca-ES;Oct 2008;Ene 2009;Conzentra;Consultoria;Analista programador;true;-;-
+14;ca-ES;Jul 2006;Oct 2008;Auseba;Consultoria;Analista programador;true;-;-
+15;ca-ES;Sep 2004;Sep 2005;Artic S.L.;Industrial;Senior;false;Es feien els controls de les màquines d'embassament i control d'estocatge dels productes de l'empresa Lechera Asturiana a Lugo.; VB.Net, Webform, ASP.Net, Visual Studio 2003, Framework 1, SQL Server
+0;es-ES;Nov 2017;Jul 2018;Mpm Software;Banca;Analista programador;false;Empresa dedicada al mundo de los seguros. Estaba al background importando datos de ficheros planos.; C#, MVC 3, ASP.Net, JavaScript, Bootstrap, WCF, CSS, Sql Server, Oracle, Cloudant DB, Angular 5, Oracle, Nhibernate, Visual Studio 2010, Visual Studio Code
+1;es-ES;Abr 2017;Oct 2017;Procon;Automòvil;Analista programador;true;-;-
+2;es-ES;Feb 2017;Mar 2017;Bismart;Consultoria;Analista programador;true;-;-
+3;es-ES;Nov 2016;Feb 2017;Hays;Consultoria;Analista programador;true;-;-
+4;es-ES;Abr 2016;Nov 2016;Between;Consultoria;Analista programador;true;-;-
+5;es-ES;May 2015;Abr 2016;PSS-TI;Consultoria;Analista programador;true;-;-
+6;es-ES;Nov 2014;May 2015;EXPERIS (MANPOWERGROUP);Consultoria;Analista programador;true;-;-
+7;es-ES;Mar 2014;Nov 2014;ADICIONA;Consultoria;Analista programador;true;-;-
+8;es-ES;Sep 2013;Mar 2014;CONSULTIA IT;Consultoria;Analista programador;true;-;-
+9;es-ES;Nov 2012;Ago 2013;RANDSTAD;Consultoria;Analista programador;true;-;-
+10;es-ES;Oct 2011;Ene 2012;OPEN TRAFFIC SYSTEMS, S.L.;Turístico;Analista programador;true;-;-
+11;es-ES;Sep 2009;Oct 2011;Voxel;Turístico;Analista programador;false;Relaciona clientes con proveedores (hoteles, restaurantes, empresas de bebidas, ...) y se llevaba un porcentaje de la factura. Programaba y documentaba;Java, C#, Telerik, WebForms, ASP.Net, JQuery, Framework 2, JQuery, CSS, HTML, Javascript, WebServices, Cvs, Scrum, Oracle
+12;es-ES;Ene 2009;Sep 2009;Optim-a;Consultoria;Analista programador;true;-;-
+13;es-ES;Oct 2008;Ene 2009;Conzentra;Consultoria;Analista programador;true;-;-
+14;es-ES;Jul 2006;Oct 2008;Auseba;Consultoria;Analista programador;true;-;-
+15;es-ES;Sep 2004;Sep 2005;Artic S.L.;Industrial;Senior;false;Se hacían controles de las máquinas de embase y control de los productos lácteos de la empresa Lechera Asturiana a Lugo.; VB.Net, Webform, ASP.Net, Visual Studio 2003, Framework 1, SQL Server
+0;en-GB;Nov 2017;Jul 2018;Mpm Software;Bank;Progammer Analyst;false;Insurance company. I was in background area to import data from plain files.; C#, MVC 3, ASP.Net, JavaScript, Bootstrap, WCF, CSS, Sql Server, Oracle, Cloudant DB, Angular 5, Oracle, Nhibernate, Visual Studio 2010, Visual Studio Code
+1;en-GB;Abr 2017;Oct 2017;Procon;Automòvil;Progammer Analyst;true;-;-
+2;en-GB;Feb 2017;Mar 2017;Bismart;Consultant;Progammer Analyst;true;-;-
+3;en-GB;Nov 2016;Feb 2017;Hays;Consultant;Progammer Analyst;true;-;-
+4;en-GB;Abr 2016;Nov 2016;Between;Consultant;Progammer Analyst;true;-;-
+5;en-GB;May 2015;Abr 2016;PSS-TI;Consultant;Progammer Analyst;true;-;-
+6;en-GB;Nov 2014;May 2015;EXPERIS (MANPOWERGROUP);Consultant;Progammer Analyst;true;-;-
+7;en-GB;Mar 2014;Nov 2014;ADICIONA;Consultant;Progammer Analyst;true;-;-
+8;en-GB;Sep 2013;Mar 2014;CONSULTIA IT;Consultant;Progammer Analyst;true;-;-
+9;en-GB;Nov 2012;Ago 2013;RANDSTAD;Consultant;Progammer Analyst;true;-;-
+10;en-GB;Oct 2011;Ene 2012;OPEN TRAFFIC SYSTEMS, S.L.;Turístico;Progammer Analyst;true;-;-
+11;en-GB;Sep 2009;Oct 2011;Voxel;Turístico;Progammer Analyst;false; Relation between clients and suppliers (hotels, restaurants, drink companies, ...). The company took a porcentage of that relation. I was programming and make documentation.; Java, C#, Telerik, WebForms, ASP.Net, JQuery, Framework 2, JQuery, CSS, HTML, Javascript, WebServices, Cvs, Scrum, Oracle
+12;en-GB;Ene 2009;Sep 2009;Optim-a;Consultant;Progammer Analyst;true;-;-
+13;en-GB;Oct 2008;Ene 2009;Conzentra;Consultant;Progammer Analyst;true;-;-
+14;en-GB;Jul 2006;Oct 2008;Auseba;Consultant;Progammer Analyst;true;-;-
+15;en-GB;Sep 2004;Sep 2005; Artic S.L.;Industry;Senior;false;We make controls of the machines which was packing their product (milk). I was making a stockage control too in Lechera Asturiana a Lugo.; VB.Net, Webform, ASP.Net, Visual Studio 2003, Framework 1, SQL Server
+

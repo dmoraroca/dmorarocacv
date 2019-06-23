@@ -1,0 +1,178 @@
+﻿cultura;categoria;descripcio;experiencia;temps;nivell;versio
+ca-ES;Llenguatges de programació;Php;2;any;Expert;5
+ca-ES;Llenguatges de programació;Angular;1;any;Mig;Js
+ca-ES;Llenguatges de programació;Angular;6;mes;Mig;2
+ca-ES;Llenguatges de programació;Angular;2;mes;Mig;4
+ca-ES;Llenguatges de programació;Grunt;1;any;Alt;-
+ca-ES;Llenguatges de programació;Karma;1;any;Alt;-
+ca-ES;Llenguatges de programació;Jasmine;1;any;Alt;-
+ca-ES;Llenguatges de programació;VB.Net;15;any;Expert;.Net
+ca-ES;Llenguatges de programació;C#;14;any;Expert;.Net
+ca-ES;Llenguatges de programació;ASP.Net;15;any;Expert;.Net
+ca-ES;Llenguatges de programació;ASP;22;any;Expert;clàssic
+ca-ES;Llenguatges de programació;HTML;12;any;Expert;5
+ca-ES;Llenguatges de programació;HTML;22;any;Expert;-
+ca-ES;Llenguatges de programació;JavaScript;22;any;Expert;-
+ca-ES;Llenguatges de programació;C/C++;25;any;Alt;-
+ca-ES;Llenguatges de programació;Java;11;any;Alt;-
+ca-ES;Llenguatges de programació;JSP;11;any;Alt;-
+ca-ES;Llenguatges de programació;CSS;22;any;Expert;3
+ca-ES;Llenguatges de programació;SASS;1;mes;Expert;-
+ca-ES;Llenguatges de programació;Visual Basic;22;any;Alt;3,4,5
+ca-ES;Llenguatges de programació;XSL;5;mes;Alt;-
+ca-ES;Llenguatges de programació;XML;15;any;Expert;-
+ca-ES;Llenguatges de programació;MVC;8;any;Expert;3,4,5,.Net
+ca-ES;Llenguatges de programació;Entity Framework (EF);2;mes;Mig;.Net
+ca-ES;Llenguatges de programació;Linq (EF);8;any;Mig;.Net
+ca-ES;Llenguatges de programació;NHibernate;10;mes;Mig;.Net
+ca-ES;Llenguatges de programació;Microsoft Framework;15;any;Expert;1, 1.1, 2, 3.5, 4, 4.5
+ca-ES;Llenguatges de programació;Ajax;12;any;Alt;-
+ca-ES;Llenguatges de programació;JQuery;12;any;Alt;-
+ca-ES;Base de dades;Oracle;15;any;Expert;8,9,10,11
+ca-ES;Base de dades;SQL Server;20;any;Expert;97, 2003, 2005, 2008, 2014, 2016
+ca-ES;Base de dades;MS Access;15;any;Expert;-
+ca-ES;Base de dades;MySQL;1;any;Alt;-
+ca-ES;Base de dades;Mongo DB;1;any;Alt;-
+ca-ES;Base de dades;Cloudant DB;1;any;Alt;-
+ca-ES;Sistemes operatius;Windows;24;any;Expert;95, 98, NT, 2000 Pro, XP, Vista, 7, 8, 10
+ca-ES;Sistemes operatius;Unix;23;any;Alt;Usuari, administrador
+ca-ES;Sistemes operatius;Ubuntu;2;any;Alt;-
+ca-ES;Altres;Kentico;6;mes;Mig;-
+ca-ES;Altres;TFS;10;any;Expert;.Net
+ca-ES;Altres;GIT;1;any;Expert;.Net
+ca-ES;Altres;SVN;2;any;Expert;.Net
+ca-ES;Altres;CSV;10;any;Expert;.Net
+ca-ES;Altres;Grails;4;mes;Mig;-
+ca-ES;Altres;GIS (GeoLocalització);4;mes;Mig;-
+ca-ES;Altres;Ajax;12;any;Alt;-
+ca-ES;Altres;JQuery;12;any;Alt;-
+ca-ES;Altres;SourceForge;1;mes;Baix;-
+ca-ES;Altres;GP Version;1;mes;Baix;-
+ca-ES;Altres;Telerik;2;any;Alt;-
+ca-ES;Altres;Sharepoint;1;any;Baix;
+ca-ES;Altres;SCRUM-TFS;12;any;Alt;-
+ca-ES;Altres;SCRUM-Jira;1;any;Alt;-
+ca-ES;Altres;CMS;3;any;Mig;-
+ca-ES;Altres;ActiveX;23;any;Alt;-
+ca-ES;Altres;Internet information Server (IIS);18;any;6, 7, 8, Express;Expert;-
+ca-ES;Altres;Visual Studio;18;any;Expert;2015, 2013, 2012, 2010, 2008, 2005, 2003, 6.0, Code
+ca-ES;Altres;Atom;1;any;Expert;-
+ca-ES;Altres;Notepad++;1;any;Expert;-
+es-ES;Lenguajes de programación;Php;2;año;Experto;5
+es-ES;Lenguajes de programación;Angular;1;año;Mig;Js
+es-ES;Lenguajes de programación;Angular;6;mes;Mig;2
+es-ES;Lenguajes de programación;Angular;2;mes;Mig;4
+es-ES;Lenguajes de programación;Grunt;1;año;Alto;-
+es-ES;Lenguajes de programación;Karma;1;año;Alto;-
+es-ES;Lenguajes de programación;Jasmine;1;año;Alto;-
+es-ES;Lenguajes de programación;VB.Net;15;año;Experto;.Net
+es-ES;Lenguajes de programación;C#;14;año;Experto;.Net
+es-ES;Lenguajes de programación;ASP.Net;15;año;Experto;.Net
+es-ES;Lenguajes de programación;ASP;22;año;Experto;clàssic
+es-ES;Lenguajes de programación;HTML;12;año;Experto;5
+es-ES;Lenguajes de programación;HTML;22;año;Experto;-
+es-ES;Lenguajes de programación;JavaScript;22;año;Experto;-
+es-ES;Lenguajes de programación;C/C++;25;año;Alto;-
+es-ES;Lenguajes de programación;Java;11;año;Alto;-
+es-ES;Lenguajes de programación;JSP;11;año;Alto;-
+es-ES;Lenguajes de programación;CSS;22;año;Experto;3
+es-ES;Lenguajes de programación;SASS;1;mes;Experto;-
+es-ES;Lenguajes de programación;Visual Basic;22;año;Alto;3, 4, 5
+es-ES;Lenguajes de programación;XSL;5;mes;Alto;-
+es-ES;Lenguajes de programación;XML;15;año;Experto;-
+es-ES;Lenguajes de programación;MVC;8;año;Experto;3, 4, 5, .Net
+es-ES;Lenguajes de programación;Entity Framework (EF);2;mes;Mig;.Net
+es-ES;Lenguajes de programación;Linq (EF);8;año;Mig;.Net
+es-ES;Lenguajes de programación;NHibernate;10;mes;Mig;.Net
+es-ES;Lenguajes de programación;Microsoft Framework;15;año;Experto;1, 1.1, 2, 3.5, 4, 4.5
+es-ES;Lenguajes de programación;Ajax;12;año;Alto;-
+es-ES;Lenguajes de programación;JQuery;12;año;Alto;-
+es-ES;Base de datos;Oracle;15;año;Experto;8, 9, 10, 11
+es-ES;Base de datos;SQL Server;20;año;Experto;97, 2003, 2005, 2008, 2014, 2016
+es-ES;Base de datos;MS Access;15;año;Experto;-
+es-ES;Base de datos;MySQL;1;año;Alto;-
+es-ES;Base de datos;Mongo DB;1;año;Alto;-
+es-ES;Base de datos;Cloudant DB;1;año;Alto;-
+es-ES;Sistemas operativos;Windows;24;año;Experto;95, 98, NT, 2000 Pro, XP, Vista, 7, 8, 10
+es-ES;Sistemas operativos;Unix;23;año;Alto;Usuario, Administrador
+es-ES;Sistemas operatvos;Ubuntu;2;año;Alto;-
+es-ES;Otros;Kentico;6;mes;Mig;-
+es-ES;Otros;TFS;10;año;Experto;-
+es-ES;Otros;GIT;1;año;Experto;-
+es-ES;Otros;SVN;2;año;Experto;-
+es-ES;Otros;CSV;10;año;Experto;-
+es-ES;Otros;Grails;4;mes;Mig;-
+es-ES;Otros;GIS (Geolocalitzación);4;mes;Mig;-
+es-ES;Otros;Ajax;12;año;Alto;-
+es-ES;Otros;JQuery;12;año;Alto;-
+es-ES;Otros;SourceForge;1;mes;Bajo;-
+es-ES;Otros;GP Version;1;mes;Bajo;-
+es-ES;Otros;Telerik;2;año;Alto;-
+es-ES;Otros;Sharepoint;1;año;Bajo;-
+es-ES;Otros;SCRUM-TFS;12;año;Alto;-
+es-ES;Otros;SCRUM-Jira;1;año;Alto;-
+es-ES;Otros;CMS;3;año;Mig;-
+es-ES;Otros;ActiveX;ca-ES;23;any;Alt;-
+es-ES;Otros;Internet information Server (IIS);18;any;6, 7, 8, Express;Expert;-
+es-ES;Otros;Visual Studio;18;año;Experto;2015, 2013, 2012, 2010, 2008, 2005, 2003, 6.0, Code
+es-ES;Otros;Atom;1;año;Experto;-
+es-ES;Otros;Notepad++;1;año;Experto;-
+en-GB;Programmer Language;Php;2;year;Expert;5
+en-GB;Programmer Language;Angular;1;year;Medum;Js
+en-GB;Programmer Language;Angular;6;month;Medum;2
+en-GB;Programmer Language;Angular;2;month;Medum;4
+en-GB;Programmer Language;Grunt;1;year;High;-
+en-GB;Programmer Language;Karma;1;year;High;-
+en-GB;Programmer Language;Jasmine;1;year;High;-
+en-GB;Programmer Language;VB.Net;15;year;Expert;.Net
+en-GB;Programmer Language;C#;14;year;Expert;.Net
+en-GB;Programmer Language;ASP.Net;15;year;Expert;.Net
+en-GB;Programmer Language;ASP;22;year;Expert;classical
+en-GB;Programmer Language;HTML;12;year;Expert;5
+en-GB;Programmer Language;HTML;22;year;Expert;-
+en-GB;Programmer Language;JavaScript;22;year;Expert;-
+en-GB;Programmer Language;C/C++;25;year;High;-
+en-GB;Programmer Language;Java;11;year;High;-
+en-GB;Programmer Language;JSP;11;year;High;-
+en-GB;Programmer Language;CSS;22;year;Expert;3
+en-GB;Programmer Language;SASS;1;month;Expert;-
+en-GB;Programmer Language;Visual Basic;22;year;High;3, 4, 5
+en-GB;Programmer Language;XSL;5;month;High;-
+en-GB;Programmer Language;XML;15;year;Expert;-
+en-GB;Programmer Language;MVC;8;year;Expert;3, 4, 5, .Net
+en-GB;Programmer Language;Entity Framework (EF);2;month;Medum;.Net
+en-GB;Programmer Language;Linq (EF);8;year;Medum;.Net
+en-GB;Programmer Language;NHibernate;10;month;Medum;.Net
+en-GB;Programmer Language;Microsoft Framework;15;year;Expert;1, 1.1, 2, 3.5, 4, 4.5
+en-GB;Programmer Language;Ajax;12;year;High;-
+en-GB;Programmer Language;JQuery;12;year;High;-
+en-GB;Database;Oracle;15;year;Expert;8, 9, 10, 11
+en-GB;Database;SQL Server;20;year;Expert;97, 2003, 2005, 2008, 2014, 2016
+en-GB;Database;MS Access;15;year;Expert;-
+en-GB;Database;MySQL;1;year;High;-
+en-GB;Database;Mongo DB;1;year;Low;-
+en-GB;Database;Cloudant DB;1;year;Low;-
+en-GB;Operative System;Windows;24;year;Expert;95, 98, NT, 2000 Pro, XP, Vista, 7, 8, 10
+en-GB;Operative System;Unix;23;year;High;User, Administrator
+en-GB;Operative System;Ubuntu;2;year;High;-
+en-GB;Other;Kentico;6;month;Medum;-
+en-GB;Other;TFS;10;year;Expert;-
+en-GB;Other;GIT;1;year;Expert;-
+en-GB;Other;SVN;2;year;Expert;-
+en-GB;Other;CSV;10;year;Expert;-
+en-GB;Other;Grails;4;month;Medum;-
+en-GB;Other;GIS (Geolocation);4;month;Medum;-
+en-GB;Other;Ajax;12;year;High;-
+en-GB;Other;JQuery;12;year;High;-
+en-GB;Other;SourceForge;1;month;Baix;-
+en-GB;Other;GP Version;1;month;Baix;-
+en-GB;Other;Telerik;2;year;High;-
+en-GB;Other;Sharepoint;1;year;Low;-
+en-GB;Other;SCRUM-TFS;12;year;High;-
+en-GB;Other;SCRUM-Jira;1;year;High;-
+en-GB;Other;CMS;3;year;Medum;-
+en-GB;Other;ActiveX;Medum;-
+en-GB;Other;Internet information Server (IIS);18;any;6, 7, 8, Express;Expert;-
+en-GB;Other;Visual Studio;18;year;Expert;2015, 2013, 2012, 2010, 2008, 2005, 2003, 6.0, Code
+en-GB;Other;Atom;1;year;Expert;-
+en-GB;Other;Notepad++;1;year;Expert;-
