@@ -1,0 +1,100 @@
+2019-06-22T21:00:41.025408+00:00 app[web.1]: Error: ENOENT: no such file or directory, stat '/app/dist./index.html'
+2019-06-22T21:00:43.000000+00:00 app[api]: Build succeeded
+2019-06-22T21:06:53.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-22T21:10:27.709771+00:00 app[api]: Deploy 44884760 by user dmoraroca@gmail.com
+2019-06-22T21:10:27.709771+00:00 app[api]: Release v15 created by user dmoraroca@gmail.com
+2019-06-22T21:10:28.501498+00:00 heroku[web.1]: Restarting
+2019-06-22T21:10:28.508812+00:00 heroku[web.1]: State changed from up to starting
+2019-06-22T21:10:29.550845+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2019-06-22T21:10:29.644529+00:00 heroku[web.1]: Process exited with status 143
+2019-06-22T21:10:44.921437+00:00 heroku[web.1]: Starting process with command `npm start`
+2019-06-22T21:10:45.000000+00:00 app[api]: Build succeeded
+2019-06-22T21:10:48.243175+00:00 app[web.1]: 
+2019-06-22T21:10:48.243193+00:00 app[web.1]: > admin-angular@0.0.0 start /app
+2019-06-22T21:10:48.243196+00:00 app[web.1]: > node ./dist/server.js
+2019-06-22T21:10:48.243198+00:00 app[web.1]: 
+2019-06-22T21:10:49.247794+00:00 heroku[web.1]: State changed from starting to up
+2019-06-22T21:20:39.790524+00:00 heroku[router]: at=info method=GET path="/" host=dmorarocacv.herokuapp.com request_id=658b1aa8-fa03-44c4-817c-54dcb7577517 fwd="79.148.63.95" dyno=web.1 connect=0ms service=32ms status=200 bytes=1171 protocol=https
+2019-06-22T21:20:39.926629+00:00 heroku[router]: at=info method=GET path="/polyfills.js" host=dmorarocacv.herokuapp.com request_id=9e4b7a39-9e2b-4533-b255-c043476204fc fwd="79.148.63.95" dyno=web.1 connect=1ms service=4ms status=200 bytes=3051 protocol=https
+2019-06-22T21:20:39.928752+00:00 heroku[router]: at=info method=GET path="/runtime.js" host=dmorarocacv.herokuapp.com request_id=f1a3aa8d-1781-488b-bd24-8a81a0590f4c fwd="79.148.63.95" dyno=web.1 connect=1ms service=2ms status=200 bytes=9356 protocol=https
+2019-06-22T21:20:40.143969+00:00 heroku[router]: at=info method=GET path="/styles.js" host=dmorarocacv.herokuapp.com request_id=d4f2676a-0106-441c-ba69-0e426011443c fwd="79.148.63.95" dyno=web.1 connect=0ms service=82ms status=200 bytes=889350 protocol=https
+2019-06-22T21:20:40.189754+00:00 heroku[router]: at=info method=GET path="/main.js" host=dmorarocacv.herokuapp.com request_id=b8e8fb7d-f459-4c37-a29b-581669ac7fb1 fwd="79.148.63.95" dyno=web.1 connect=1ms service=6ms status=200 bytes=852 protocol=https
+2019-06-22T21:20:40.232798+00:00 heroku[router]: at=info method=GET path="/vendor.js" host=dmorarocacv.herokuapp.com request_id=68403ba2-2ab2-4294-b754-7cb3ae2cfc3e fwd="79.148.63.95" dyno=web.1 connect=2ms service=153ms status=200 bytes=4663109 protocol=https
+2019-06-22T21:20:43.133905+00:00 heroku[router]: at=info method=GET path="/assets/images/favicon.png" host=dmorarocacv.herokuapp.com request_id=59ee823d-dd09-40d6-bf00-e1742abb7f6c fwd="79.148.63.95" dyno=web.1 connect=0ms service=12ms status=200 bytes=1564 protocol=https
+2019-06-22T21:20:47.864679+00:00 heroku[router]: at=info method=GET path="/runtime.js.map" host=dmorarocacv.herokuapp.com request_id=2d25cae1-4343-43a0-b7fe-023743bb4e8d fwd="79.148.63.95" dyno=web.1 connect=1ms service=3ms status=200 bytes=9484 protocol=https
+2019-06-22T21:20:47.950126+00:00 heroku[router]: at=info method=GET path="/styles.js.map" host=dmorarocacv.herokuapp.com request_id=8c4c31bf-a959-4fce-a173-a99d2c4bcc78 fwd="79.148.63.95" dyno=web.1 connect=1ms service=86ms status=200 bytes=954074 protocol=https
+2019-06-22T21:20:48.070041+00:00 heroku[router]: at=info method=GET path="/vendor.js.map" host=dmorarocacv.herokuapp.com request_id=94feb695-cf86-4412-a12c-e00570e32513 fwd="79.148.63.95" dyno=web.1 connect=0ms service=212ms status=200 bytes=5287303 protocol=https
+2019-06-22T21:20:50.811024+00:00 heroku[router]: at=info method=GET path="/runtime.js" host=dmorarocacv.herokuapp.com request_id=752ce00a-ca9f-4636-9d35-1e5ba0c1e65e fwd="79.148.63.95" dyno=web.1 connect=1ms service=3ms status=200 bytes=9356 protocol=https
+2019-06-22T21:20:50.658959+00:00 heroku[router]: at=info method=GET path="/" host=dmorarocacv.herokuapp.com request_id=d4289871-86df-4961-817b-5b02a008021c fwd="79.148.63.95" dyno=web.1 connect=0ms service=2ms status=200 bytes=1171 protocol=https
+2019-06-22T21:20:50.832965+00:00 heroku[router]: at=info method=GET path="/polyfills.js" host=dmorarocacv.herokuapp.com request_id=1de2ab2b-565f-436c-930a-940e2eb29bd1 fwd="79.148.63.95" dyno=web.1 connect=8ms service=3ms status=200 bytes=3051 protocol=https
+2019-06-22T21:20:50.874925+00:00 heroku[router]: at=info method=GET path="/styles.js" host=dmorarocacv.herokuapp.com request_id=c24e948f-1253-4349-bfc7-e78a5c551cd9 fwd="79.148.63.95" dyno=web.1 connect=4ms service=59ms status=200 bytes=889350 protocol=https
+2019-06-22T21:20:51.066836+00:00 heroku[router]: at=info method=GET path="/vendor.js" host=dmorarocacv.herokuapp.com request_id=99a361e7-d1cb-44d3-9aae-719a0a550cbf fwd="79.148.63.95" dyno=web.1 connect=2ms service=138ms status=200 bytes=4663109 protocol=https
+2019-06-22T21:20:50.967606+00:00 heroku[router]: at=info method=GET path="/main.js" host=dmorarocacv.herokuapp.com request_id=22405959-7559-4889-92a6-ec0ec2bee505 fwd="79.148.63.95" dyno=web.1 connect=1ms service=4ms status=200 bytes=852 protocol=https
+2019-06-22T21:20:51.034264+00:00 heroku[router]: at=info method=GET path="/runtime.js.map" host=dmorarocacv.herokuapp.com request_id=65e4923c-7b22-454a-a48c-6eadf18810e7 fwd="79.148.63.95" dyno=web.1 connect=2ms service=5ms status=200 bytes=9484 protocol=https
+2019-06-22T21:20:51.705529+00:00 heroku[router]: at=info method=GET path="/styles.js.map" host=dmorarocacv.herokuapp.com request_id=ba4adb38-871b-4a50-8538-8362b65bc763 fwd="79.148.63.95" dyno=web.1 connect=0ms service=55ms status=200 bytes=954074 protocol=https
+2019-06-22T21:20:52.984564+00:00 heroku[router]: at=info method=GET path="/assets/images/favicon.png" host=dmorarocacv.herokuapp.com request_id=89129d2e-41f9-4104-bf2a-c08e58c7c9b9 fwd="79.148.63.95" dyno=web.1 connect=2ms service=12ms status=200 bytes=1564 protocol=https
+2019-06-22T21:20:53.085211+00:00 heroku[router]: at=info method=GET path="/vendor.js.map" host=dmorarocacv.herokuapp.com request_id=6151298d-f30f-40c6-b933-45ff5d86b2e3 fwd="79.148.63.95" dyno=web.1 connect=0ms service=144ms status=200 bytes=5287303 protocol=https
+2019-06-22T21:32:04.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-22T21:36:07.939083+00:00 app[api]: Deploy b32825d4 by user dmoraroca@gmail.com
+2019-06-22T21:36:07.939083+00:00 app[api]: Release v16 created by user dmoraroca@gmail.com
+2019-06-22T21:36:08.406261+00:00 heroku[web.1]: Restarting
+2019-06-22T21:36:08.411293+00:00 heroku[web.1]: State changed from up to starting
+2019-06-22T21:36:09.558092+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2019-06-22T21:36:09.686463+00:00 heroku[web.1]: Process exited with status 143
+2019-06-22T21:36:18.892202+00:00 heroku[web.1]: Starting process with command `npm start`
+2019-06-22T21:36:20.652586+00:00 app[web.1]: 
+2019-06-22T21:36:20.652660+00:00 app[web.1]: > admin-angular@0.0.0 start /app
+2019-06-22T21:36:20.652662+00:00 app[web.1]: > node ./dist/server.js
+2019-06-22T21:36:20.652664+00:00 app[web.1]: 
+2019-06-22T21:36:21.127903+00:00 heroku[web.1]: State changed from starting to up
+2019-06-22T21:36:38.000000+00:00 app[api]: Build succeeded
+2019-06-22T21:36:53.071308+00:00 heroku[router]: at=info method=GET path="/" host=dmorarocacv.herokuapp.com request_id=169713a1-d2bb-48b6-b914-6824a621a617 fwd="79.148.63.95" dyno=web.1 connect=0ms service=18ms status=404 bytes=380 protocol=https
+2019-06-22T21:36:53.076177+00:00 app[web.1]: Error: ENOENT: no such file or directory, stat '/app/dist/dist/index.html'
+2019-06-22T22:12:00.392633+00:00 heroku[web.1]: Idling
+2019-06-22T22:12:00.397522+00:00 heroku[web.1]: State changed from up to down
+2019-06-22T22:12:01.083480+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2019-06-22T22:12:01.148737+00:00 heroku[web.1]: Process exited with status 143
+2019-06-23T09:40:33.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T09:40:43.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/108cdcea-5582-48e5-8f79-34a8567f982e
+2019-06-23T09:41:36.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T09:44:21.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/0db55e9c-229f-4a55-b52c-83361dfeeb57
+2019-06-23T09:47:12.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T09:49:57.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/1f49153e-9a4d-49f3-94c9-5eaf8ae0847d
+2019-06-23T09:51:24.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T09:53:54.598694+00:00 heroku[web.1]: Unidling
+2019-06-23T09:53:54.601100+00:00 heroku[web.1]: State changed from down to starting
+2019-06-23T09:54:02.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/98419550-b0a2-4278-a729-bb61849c1eb2
+2019-06-23T09:54:07.755040+00:00 heroku[web.1]: Starting process with command `npm start`
+2019-06-23T09:54:11.818913+00:00 app[web.1]: 
+2019-06-23T09:54:11.818934+00:00 app[web.1]: > admin-angular@0.0.0 start /app
+2019-06-23T09:54:11.818936+00:00 app[web.1]: > node ./dist/server.js
+2019-06-23T09:54:11.818938+00:00 app[web.1]: 
+2019-06-23T09:54:12.604154+00:00 heroku[web.1]: State changed from starting to up
+2019-06-23T09:54:14.920021+00:00 heroku[router]: at=info method=GET path="/" host=dmorarocacv.herokuapp.com request_id=bcfa498b-e803-496a-bef5-56778b652a26 fwd="79.148.63.95" dyno=web.1 connect=2ms service=216ms status=404 bytes=380 protocol=https
+2019-06-23T09:54:14.927169+00:00 app[web.1]: Error: ENOENT: no such file or directory, stat '/app/dist/dist/index.html'
+2019-06-23T09:58:49.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T10:01:24.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/e40510e3-5897-4d9b-887b-25b83f39d91b
+2019-06-23T10:04:28.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T10:08:03.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/9e87a73f-f19f-4f24-bef1-3068f7a9faa4
+2019-06-23T10:15:16.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T10:15:27.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/fc287624-afbd-44b1-8e10-85687f7ad383
+2019-06-23T10:20:57.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T10:24:56.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/e82c9fc6-2746-49e0-a226-81ed8746e281
+2019-06-23T10:29:45.568105+00:00 heroku[web.1]: Idling
+2019-06-23T10:29:45.571501+00:00 heroku[web.1]: State changed from up to down
+2019-06-23T10:29:46.663788+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2019-06-23T10:29:46.844747+00:00 heroku[web.1]: Process exited with status 143
+2019-06-23T10:31:05.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T10:34:23.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/36396ead-5553-48bd-b6b3-cf243b52c6a7
+2019-06-23T10:35:11.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T10:36:01.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/3d9367f0-46be-4962-93ea-b93438b26aa5
+2019-06-23T10:38:57.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T10:39:46.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/68317c48-2c18-4efe-a304-387221775163
+2019-06-23T10:42:35.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T10:43:23.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/3c805a2a-4a17-4780-88a0-3bf3b3a9c448
+2019-06-23T11:23:09.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T11:24:02.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/8cee6be2-028f-45f5-9c7a-9402fc365bfb
+2019-06-23T15:04:36.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T15:09:37.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/56e81d0b-69d2-4c43-90b6-9eba5afdd8e7
+2019-06-23T15:20:31.000000+00:00 app[api]: Build started by user dmoraroca@gmail.com
+2019-06-23T15:21:17.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/2b8ee7da-3b13-402e-b52d-83e81ceaa031/activity/builds/4ce880b4-7e3b-4af0-8b1e-dcf41898074b
