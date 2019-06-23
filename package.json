@@ -6,10 +6,10 @@
 		"start": "node ./dist/server.js",
 		"build": "ng build",
 		"heroku-postbuild": "npm run html && ng build --aot --prod",
-		"html": "copyfiles -u 1 ./src/app/**/*.html ./src/app/**/*.css dist/"
+		"html": "copyfiles -u 1 ./src/app/**/*.html ./src/app/**/*.css dist/",
 		"build": "ng build",
 		"lint": "ng lint",
-		"postinstall": "ng build --aot --prod",
+		"postinstall": "ng build --aot --prod"
    },
    "main": "dist/server.js",
    "private": true,
