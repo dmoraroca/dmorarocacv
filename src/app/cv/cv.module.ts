@@ -12,7 +12,6 @@ import { NoRegladaComponent } from './educacio/noreglada/noreglada.component';
 import { IdiomesComponent } from './educacio/idiomes/idiomes.component';
 import { ClientComponent } from './experiencialaboral/client/client.component';
 import { HttpClientModule } from '@angular/common/http'
-import { TagsInputModule } from 'ngx-tags-input';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 
@@ -44,8 +43,7 @@ const routes: Routes = [{
     FormsModule,
     CommonModule, 
     HttpClientModule,    
-    RouterModule.forChild(routes),
-    TagsInputModule
+    RouterModule.forChild(routes)
   ],
   schemas: [ CUSTOM_ELEMENTS_SCHEMA]
 })
