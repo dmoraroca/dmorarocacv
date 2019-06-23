@@ -5,11 +5,13 @@
    "scripts": {
       "start": "node ./dist/server.js",
       "build": "ng build",
+	  "heroku-preinstall": "npm run clean",
       "heroku-postbuild": "npm run html && ng build --aot --prod",
       "html": "copyfiles -u 1 ./src/app/**/*.html ./src/app/**/*.css dist/",
+	  "clean": "npm cache clean --force",
       "lint": "ng lint",
       "postinstall": "ng build"
-   },
+   },    
    "main": "dist/server.js",
    "private": true,
    "dependencies": {
