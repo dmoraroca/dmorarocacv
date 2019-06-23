@@ -9,7 +9,7 @@
 		"html": "copyfiles -u 1 ./src/app/**/*.html ./src/app/**/*.css dist/",
 		"build": "ng build",
 		"lint": "ng lint",
-		"postinstall": "ng build --aot --prod"
+		"postinstall": "ng build"
    },
    "main": "dist/server.js",
    "private": true,
